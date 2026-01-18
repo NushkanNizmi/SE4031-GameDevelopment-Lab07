@@ -1,6 +1,6 @@
 # 🧪 LAB 07 (2 Hours) — Interactable 3: Lore Object + Popup Panel
 
-✅ Includes scripts + wiring
+Includes scripts
 
 ---
 
